@@ -12,4 +12,9 @@
 - Vérifier la solution trouvée par l'utilisateur
 
 Voici comment se présente le jeu lorsqu'on le démarre : 
+
 ![Interface sudoku](/images/interface_sudoku.png "Interface sudoku")
+
+Une fois que l'utilisateur a cliqué que "générer une grille", il peut commencer à jouer : 
+
+![debut du jeu](/images/debut_jeu.png "Commencer à jouer")

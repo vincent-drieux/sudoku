@@ -12,4 +12,4 @@
 - Vérifier la solution trouvée par l'utilisateur
 
 Voici comment se présente le jeu lorsqu'on le démarre : 
-![Interface sudoku](/sudoku/images/interface_sudoku.png "Interface sudoku")
+![Interface sudoku](/images/interface_sudoku.png "Interface sudoku")
